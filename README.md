@@ -26,17 +26,27 @@
 
 <!-- STREETERS MENU -->
 <p align="center">
-  <a href="#about">About</a> ·
   <a href="#tech-stack">Stack</a> ·
-  <a href="#projects-live">Projects</a> ·
+  <a href="#about">About</a> ·
   <a href="#github-stats">Stats</a> ·
   <a href="#activity-graph">Activity</a> ·
-  <a href="#contribution-snake">Snake</a>
+  <a href="#contribution-snake">Snake</a> ·
+  <a href="#projects-live">Projects</a>
 </p>
 
 ---
 
-## About
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,github&perline=9" />
+</p>
+
+---
+
+<a id="about"></a>
+<details>
+  <summary><h2>About <sub>(click to expand)</sub></h2></summary>
 
 I am an Information Technology student at the University of Western Macedonia (Kastoria),
 studying since 2021.
@@ -65,12 +75,38 @@ July 1, 2024 – October 3, 2024
 Internship in the technical services sector, with hands-on experience in network
 infrastructure and technical support.
 
+</details>
+
 ---
 
-## Tech Stack
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,github&perline=9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true&ring=7c3aed&fire=22c55e" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimisnak&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/main/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -100,46 +136,6 @@ Repo: https://github.com/Mimisnak/mimis.dev
 ### Streeter
 Live: https://streeter.sverkos.net  
 Repo: https://github.com/Mimisnak/streeter.sverkos.net
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true&ring=7c3aed&fire=22c55e" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimisnak&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mimisnak&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/main/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
 
