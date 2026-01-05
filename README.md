@@ -42,10 +42,10 @@ Focused on **Web Development** and **Networking Technologies**, with emphasis on
 **Technical Services Intern – COSMOTE**  
 July 1, 2024 – October 3, 2024  
 
-Experience in:
-- Network infrastructure
-- Technical support
-- IT systems and real-world troubleshooting
+Hands-on experience in:
+- Network infrastructure  
+- Technical support  
+- IT systems and real-world troubleshooting  
 
 ---
 
@@ -54,7 +54,7 @@ Experience in:
 Specialization: Electrical Installations  
 2018 – 2021  
 
-Technical background in electrical systems and installations.
+Strong technical background in electrical systems and installations.
 
 </details>
 
@@ -87,7 +87,7 @@ Technical background in electrical systems and installations.
 ## Contribution Snake
 
 <p align="center">
-  <img src="./output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/output/snake.svg" />
 </p>
 
 ---
