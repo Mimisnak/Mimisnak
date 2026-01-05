@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-Mimisnak-0f172a?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:hello@mimis.dev">
-    <img src="https://img.shields.io/badge/Email-hello@mimis.dev-22c55e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-dimitriosnakos.g@gmail.com-22c55e?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/dimitrios-nakos-a669022a9">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" />
