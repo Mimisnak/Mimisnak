@@ -39,7 +39,13 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,next" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github" />
 </p>
 
 ---
