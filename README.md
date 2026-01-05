@@ -56,7 +56,7 @@ Strong technical background in electrical systems and installations.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400&v=1" />
+  <img src="https://img.shields.io/badge/GitHub_Stats-Profile-blueviolet?style=flat&logo=github" />
 </p>
 
 ---
