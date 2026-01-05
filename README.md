@@ -10,20 +10,25 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://mimis.dev">
-    <img src="https://img.shields.io/badge/Portfolio-mimis.dev-7c3aed?style=for-the-badge" />
+  <a href="#about">
+    <img src="https://img.shields.io/badge/About-111827?style=for-the-badge&labelColor=7c3aed" />
   </a>
-  <a href="https://github.com/Mimisnak">
-    <img src="https://img.shields.io/badge/GitHub-Mimisnak-0f172a?style=for-the-badge&logo=github" />
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Stack-111827?style=for-the-badge&labelColor=06b6d4" />
   </a>
-  <a href="mailto:hello@mimis.dev">
-    <img src="https://img.shields.io/badge/Email-dimitriosnakos.g@gmail.com-22c55e?style=for-the-badge" />
+  <a href="#projects-live">
+    <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&labelColor=22c55e" />
   </a>
-  <a href="https://www.linkedin.com/in/dimitrios-nakos-a669022a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" />
+  <a href="#github-stats">
+    <img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&labelColor=f97316" />
+  </a>
+  <a href="#snake">
+    <img src="https://img.shields.io/badge/Snake-111827?style=for-the-badge&labelColor=ec4899" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&labelColor=0ea5e9" />
   </a>
 </p>
-
 ---
 
 ## About
