@@ -102,14 +102,6 @@ Repo: https://github.com/Mimisnak/mimis.dev
 
 ---
 
-## Contact
-
-- Website: https://mimis.dev  
-- Email: hello@mimis.dev  
-- LinkedIn: https://www.linkedin.com/in/dimitrios-nakos-a669022a9  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mimisnak&style=flat-square&color=7c3aed" />
 </p>
