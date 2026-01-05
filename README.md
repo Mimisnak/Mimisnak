@@ -36,4 +36,80 @@ I like building projects that feel clean, responsive and visually consistent, wh
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillic
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,github&perline=9" />
+</p>
+
+---
+
+## Projects (Live)
+
+<p align="center">
+  <a href="https://mimisnak.github.io/Smart-Greenhouse-Dashboard/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=Smart-Greenhouse-Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://mimis.dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=mimis.dev&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+### Smart Greenhouse Dashboard
+Live: https://mimisnak.github.io/Smart-Greenhouse-Dashboard/  
+Repo: https://github.com/Mimisnak/Smart-Greenhouse-Dashboard
+
+### Portfolio
+Live: https://mimis.dev  
+Repo: https://github.com/Mimisnak/mimis.dev
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimisnak&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mimisnak&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## Contact
+
+- Website: https://mimis.dev  
+- Email: hello@mimis.dev  
+- LinkedIn: https://www.linkedin.com/in/dimitrios-nakos-a669022a9  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mimisnak&style=flat-square&color=7c3aed" />
+</p>
