@@ -51,16 +51,6 @@ Strong technical background in electrical systems and installations.
 
 </details>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Stats-Profile-blueviolet?style=flat&logo=github" />
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
