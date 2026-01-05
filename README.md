@@ -56,7 +56,7 @@ Strong technical background in electrical systems and installations.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400&v=1" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Strong technical background in electrical systems and installations.
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/main/output/snake.svg?v=1" />
 </p>
 
 ---
