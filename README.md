@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Focused+Web+Developer;Web+Development+%26+Networking+Technologies;Portfolio%3A+mimis.dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+focused+Web+Developer;Web+Development+%26+Networking+Technologies;Portfolio%3A+mimis.dev" />
 </p>
 
 ---
@@ -13,42 +13,49 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-circle.svg" width="300" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/nodejs/339933" width="48" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" />
 </p>
 
 ---
 
-## About  
+## About
+
 <details>
-<summary><strong>Click to expand</strong></summary>
+<summary><strong>▶ Click to expand</strong></summary>
 
 ### Education
-**BSc in Computer Science**  
-University of Western Macedonia (Kastoria)  
-**2021 – Present**
+**Computer Science – University of Western Macedonia (Kastoria)**  
+2021 – Present  
 
-Focused on **Web Development** and **Networking Technologies**.
+Focused on **Web Development** and **Networking Technologies**, with emphasis on modern frontend practices and clean UI architecture.
 
 ---
 
 ### Internship
-**Technical Services Intern**  
-COSMOTE  
-**July 1, 2024 – October 3, 2024**
+**Technical Services Intern – COSMOTE**  
+July 1, 2024 – October 3, 2024  
 
-Hands-on experience with:
-- Network infrastructure  
-- Technical support  
-- Real-world troubleshooting in telecom environments
+Hands-on experience in:
+- Network infrastructure
+- Technical support
+- Real-world IT operations
 
 ---
 
 ### Secondary Education
 **2nd Technical High School of Xanthi**  
 Specialization: Electrical Installations  
-**2018 – 2021**
+2018 – 2021  
 
-Technical background in electrical systems and installations.
+Strong technical background in electrical systems and installations.
 
 </details>
 
@@ -64,6 +71,10 @@ Technical background in electrical systems and installations.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## Activity Graph
@@ -77,7 +88,7 @@ Technical background in electrical systems and installations.
 ## Contribution Snake
 
 <p align="center">
-  <img src="./output/snake.svg" alt="contribution snake" />
+  <img src="./output/snake.svg" alt="snake animation" />
 </p>
 
 ---
