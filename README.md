@@ -45,10 +45,10 @@ I like building projects that feel clean, responsive and visually consistent, wh
 
 <p align="center">
   <a href="https://mimisnak.github.io/Smart-Greenhouse-Dashboard/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=Smart-Greenhouse-Dashboard&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=Smart-Greenhouse-Dashboard&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://mimis.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=mimis.dev&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimisnak&repo=mimis.dev&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Repo: https://github.com/Mimisnak/mimis.dev
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Repo: https://github.com/Mimisnak/mimis.dev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Repo: https://github.com/Mimisnak/mimis.dev
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Mimisnak/Mimisnak/main/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
