@@ -69,7 +69,7 @@ Repo: https://github.com/Mimisnak/mimis.dev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mimisnak&theme=tokyonight&hide_border=true&ring=7c3aed&fire=22c55e" />
 </p>
 
 <p align="center">
