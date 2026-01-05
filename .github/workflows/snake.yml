@@ -29,3 +29,4 @@ jobs:
           git add output/snake.svg
           git commit -m "Update snake" || exit 0
           git push
+```0
