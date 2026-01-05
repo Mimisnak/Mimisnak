@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Web+Development+%26+Networking+Technologies;Portfolio%3A+mimis.dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Web+Developer" />
 </p>
 
 ---
@@ -12,15 +12,15 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="52" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="52" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="52" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" />
-  <img src="https://cdn.simpleicons.org/nodejs/339933" width="52" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="52" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" />
 </p>
 
 ---
