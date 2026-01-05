@@ -9,21 +9,18 @@
 </p>
 
 ---
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="48" />
-  <img src="https://cdn.simpleicons.org/nodejs/339933" width="48" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="52" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="52" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="52" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="52" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="52" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" />
 </p>
-
 ---
 
 ## About
