@@ -1,10 +1,11 @@
+<!-- markdownlint-disable MD033 -->
 <!-- HERO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Dimitrios%20Nakos&fontAlign=50&fontAlignY=35&desc=Student%20IT%20•%20UOWM&descAlign=50&descAlignY=60&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Web+Dev[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Web+Developer;IT+Enthusiast" />
 </p>
 
 ---
@@ -55,7 +56,7 @@ Strong technical background in electrical systems and installations.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mimisnak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
@@ -63,7 +64,7 @@ Strong technical background in electrical systems and installations.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimisnak&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,3 +108,4 @@ Repo: https://github.com/Mimisnak/streeter.sverkos.net
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mimisnak&style=flat-square&color=7c3aed" />
 </p>
+<!-- markdownlint-enable MD033 -->
